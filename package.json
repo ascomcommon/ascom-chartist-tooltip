@@ -1,0 +1,32 @@
+{
+  "name": "ascom-chartist-tooltip",
+  "description": "Tooltip plugin for Chartist.js",
+  "version": "1.0.0",
+  "author": "Dmitry Lebedev",
+  "homepage": "https://github.com/lebydev/chartist-plugin-tooltip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebydev/chartist-plugin-tooltip"
+  },
+  "bugs": {
+    "url": "https://github.com/lebydev/chartist-plugin-tooltip"
+  },
+  "keywords": [
+    "chartist",
+    "plugin",
+    "tooltip"
+  ],
+  "files": [
+    "chartist-plugin-tooltip.js",
+    "chartist-plugin-tooltip.css"
+  ],
+  "main": "chartist-plugin-tooltip.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chartist-logscale": "0.11.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
